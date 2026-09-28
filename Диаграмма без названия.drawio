@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="BKHN5BWzwFEdYftxqJ68">
+    <mxGraphModel dx="1488" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Начало" vertex="1">
+          <mxGeometry height="60" width="100" x="345" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="394.5" y="150" as="sourcePoint" />
+            <mxPoint x="394.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-3" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Ввод L1, L2, V1, V2" vertex="1">
+          <mxGeometry height="60" width="200" x="295" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="394.5" y="280" as="sourcePoint" />
+            <mxPoint x="394.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Vсбл=V1+V2" vertex="1">
+          <mxGeometry height="50" width="190" x="300" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="394.5" y="430" />
+            </Array>
+            <mxPoint x="394.5" y="400" as="sourcePoint" />
+            <mxPoint x="394.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="S=L1+L2" vertex="1">
+          <mxGeometry height="50" width="190" x="300" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="394.5" y="550" />
+            </Array>
+            <mxPoint x="394.5" y="520" as="sourcePoint" />
+            <mxPoint x="394.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="T=S/Vслб" vertex="1">
+          <mxGeometry height="50" width="190" x="300" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="394.5" y="670" />
+            </Array>
+            <mxPoint x="394.5" y="640" as="sourcePoint" />
+            <mxPoint x="394.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-12" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Вывод T" vertex="1">
+          <mxGeometry height="60" width="200" x="290" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="100" x="345" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="_ePnTTBusYB1E_y3ukdh-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="394.5" y="800" />
+            </Array>
+            <mxPoint x="394.5" y="770" as="sourcePoint" />
+            <mxPoint x="394.5" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
