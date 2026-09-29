@@ -13,6 +13,13 @@
 ### Блок-схема
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz3/blob/master/Схема.png) 
 ## 2.Реализация программы 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz3/blob/master/Схема.png) 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz3/blob/master/2026-09-29_11-01-03.png) 
 ## 3. Результаты работы программы 
+L1 = 120.0 
+L2 = 150.0 
+V1 = 15.0 
+V2 = 20.0 
+Vслб = 35.0 
+S = 270.0 
+T = 7.71 
 
